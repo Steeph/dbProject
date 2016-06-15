@@ -1,2 +1,2 @@
-Connexion à la DB dans le fichier init  
+Connexion to the database in the init.php file
 Username & Password
